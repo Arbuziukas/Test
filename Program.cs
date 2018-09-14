@@ -14,6 +14,7 @@ namespace TestApp
         [STAThread]
         static void Main()
         {
+//This is a comment
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new window());
