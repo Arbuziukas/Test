@@ -1,0 +1,10 @@
+D:\Stuff\Visual Studio Projects\TestApp\bin\Debug\TestApp.exe.config
+D:\Stuff\Visual Studio Projects\TestApp\bin\Debug\TestApp.exe
+D:\Stuff\Visual Studio Projects\TestApp\bin\Debug\TestApp.pdb
+D:\Stuff\Visual Studio Projects\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+D:\Stuff\Visual Studio Projects\TestApp\obj\Debug\TestApp.window.resources
+D:\Stuff\Visual Studio Projects\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+D:\Stuff\Visual Studio Projects\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+D:\Stuff\Visual Studio Projects\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+D:\Stuff\Visual Studio Projects\TestApp\obj\Debug\TestApp.exe
+D:\Stuff\Visual Studio Projects\TestApp\obj\Debug\TestApp.pdb
